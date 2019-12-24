@@ -118,7 +118,7 @@ class Program
 
 
  ```
-
+![class](https://github.com/halitakkus/Yazilim-mimarisi-ve-tasarimi/blob/master/ClassDiagram-Builder%20Pattern.jpg)
 ----------------------------------------------
 
 
@@ -253,7 +253,7 @@ public class RemoteControlTest {
     }
 }
 ```
-![class](https://github.com/halitakkus/Yazilim-mimarisi-ve-tasarimi/blob/master/ClassDiagram-Builder%20Pattern.jpg)
+
 
 # Kaynakça #
 
