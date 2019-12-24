@@ -162,7 +162,7 @@ Test sınıfı
 Örnek Uygulama
 
 Command interface
-
+```java
 public interface Command {
     public void execute();
 }
@@ -170,7 +170,7 @@ public interface Command {
 
 public class LightOnCommand implements Command {
     Light light;
-     ```java
+     
     public LightOnCommand(Light light) {
         this.light = light;
     }
