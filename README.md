@@ -122,8 +122,8 @@ class Program
 ----------------------------------------------
 
 
-Creational(Yaratimsal) Pattern
-Builder Pattern (Olusturucu Deseni)
+# Creational(Yaratimsal) Pattern #
+**Command Pattern**
 
 Gelistirilen yazilimlarda POJO olarak adlandirabilecek siniflarimizi kullaniyoruz ve bu siniflardan nesne elde ederken 
 constructor’lardan faydalanabiliyoruz. Gelgelelim ki POJO içerisindeki alanlarin sayisi arttikça constructor kullanimi zora
