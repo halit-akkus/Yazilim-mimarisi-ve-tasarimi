@@ -253,7 +253,7 @@ public class RemoteControlTest {
     }
 }
 ```
-![class](https://github.com/halitakkus/Yazilim-mimarisi-ve-tasarimi/blob/master/ClassDiagram-command%20pattern.png)
+![class](https://github.com/halitakkus/Yazilim-mimarisi-ve-tasarimi/blob/master/ClassDiagram-Builder%20Pattern.jpg)
 
 # Kaynakça #
 
